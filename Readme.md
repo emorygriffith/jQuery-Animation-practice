@@ -1,3 +1,11 @@
-## Yo, I'm a Readme
+## jQuery Practice Animation
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+
+This was a practice project to get used to jQuery animation.
+
+How to use it
+  -Clone my repo
+  -Run npm install
+  -Run bower install
+
+I used animate.css and jQuery for the animations. 
